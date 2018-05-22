@@ -1,25 +1,29 @@
 body {
-  background-color: tan;
+  background-color: #02AB70;
 }
 
 nav {
-  display: inline;
+  display: flex;
 }
 
 h1 {
 font-size: 35px;
-color: #004;
+font-family: fantasy;
+font-weight: bold;
+color: coral;
 }
 
 h2 {
   font-size: 25px;
-  color: #400;
+  font-family: fantasy;
+  font-weight: bold;
+  color: coral;
 }
 
 figure {
-  float: center;
+  display:center;
   text-align: center;
   font-style: italic;
-  font-size: smaller;
-  border: thin silver solid;
+  font-size: 24pt;
+  border: none;
 }
