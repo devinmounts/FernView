@@ -1,0 +1,25 @@
+body {
+  background-color: tan;
+}
+
+nav {
+  display: inline;
+}
+
+h1 {
+font-size: 35px;
+color: #004;
+}
+
+h2 {
+  font-size: 25px;
+  color: #400;
+}
+
+figure {
+  float: center;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  border: thin silver solid;
+}
